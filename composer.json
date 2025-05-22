@@ -1,0 +1,16 @@
+{
+    "name": "erra/shoping",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mostafaemam"
+        }
+    ],
+    "require": {}
+}
